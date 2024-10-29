@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Querida-andre/static/css/main.3bb4d757.css",
+    "main.js": "/Querida-andre/static/js/main.fe364a83.js",
+    "static/js/453.dba243c0.chunk.js": "/Querida-andre/static/js/453.dba243c0.chunk.js",
+    "static/media/tulipan1.png": "/Querida-andre/static/media/tulipan1.5a4d5d46fd37db09d1f8.png",
+    "index.html": "/Querida-andre/index.html",
+    "main.3bb4d757.css.map": "/Querida-andre/static/css/main.3bb4d757.css.map",
+    "main.fe364a83.js.map": "/Querida-andre/static/js/main.fe364a83.js.map",
+    "453.dba243c0.chunk.js.map": "/Querida-andre/static/js/453.dba243c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb4d757.css",
+    "static/js/main.fe364a83.js"
+  ]
+}
